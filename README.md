@@ -100,3 +100,61 @@ Python
 Cloud Technologies
         ↓
 Backend Development
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vaishnavipawarofficial06-boop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavipawarofficial06-boop&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=vaishnavipawarofficial06-boop&theme=tokyonight&hide_border=true" 
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=vaishnavipawarofficial06-boop&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" 
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavipawarofficial06-boop&theme=tokyo-night&hide_border=true&area=true" 
+  />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=vaishnavipawarofficial06-boop&label=Profile%20Views&color=blueviolet&style=for-the-badge" 
+  />
+</p>
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my profile! ✨
+</p>
