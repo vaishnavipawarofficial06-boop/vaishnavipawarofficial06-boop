@@ -1,24 +1,31 @@
+<!-- 1. TOP ANIMATED BANNER -->
 <p align="center">
-  <!-- Glowing Animated Header Badge -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,50:7b2cbf,100:00f0ff&height=220&section=header&text=VAISHNAVI%20PAWAR&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,35:7b2cbf,70:00f0ff,100:ff007f&height=250&section=header&text=VAISHNAVI%20PAWAR&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 </p>
 
+<!-- 2. LIVE TYPING ANIMATION -->
 <p align="center">
-  <!-- Mental Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%3C%2F%3E+Frontend+Developer;Full-Stack+Enthusiast;Build+%C2%B7+Learn+%C2%B7+Grow+!;Better+Code+.+Brighter+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3C%2F%3E+Frontend+Developer;Full-Stack+Enthusiast;Transforming+Ideas+Into+Code;Build+%C2%B7+Learn+%C2%B7+Grow+!" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Floating Animated Tech Badges -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=vaishnavipawar&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Profile Views" />
 </p>
 
+<hr />
+
+<!-- 3. ABOUT ME SECTION -->
+<h3>⚡ About Me</h3>
+
+```javascript
+const vaishnavi = {
+    code: ["JavaScript", "React", "Node.js", "HTML/CSS"],
+    architecture: ["Full-Stack Applications", "Responsive UI/UX"],
+    currentFocus: "Mastering Modern Web Technologies",
+    funFact: "Turns coffee into clean & scalable code ☕"
+};
 # Hi 👋, I'm Vaishnavi Pawar
 
 ### 💻 Frontend Developer | Full-Stack Web Development Enthusiast
