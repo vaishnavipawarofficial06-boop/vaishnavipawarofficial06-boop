@@ -127,20 +127,53 @@ and user-friendly web applications.
 </p>
 
 ---
+---
 
 ## 🌱 Currently Learning
 
-```text
-Frontend Development
-        ↓
-Full-Stack Web Development
-        ↓
-Python
-        ↓
-Cloud Technologies
-        ↓
-Backend Development
+<p align="center">
+
+| 🚀 Area | 📚 Learning |
+|:---:|:---:|
+| 🎨 Frontend | HTML • CSS • JavaScript |
+| ⚛️ Web Development | React.js |
+| 🐍 Programming | Python |
+| ☁️ Cloud | Cloud Technologies |
+| 🔧 Backend | Node.js • APIs |
+| 🗄️ Database | SQL • MongoDB |
+
+</p>
+
+---
+
+## 💡 What I'm Working On
+
+- 🚀 Building modern and responsive web applications
+- 🌱 Improving my Full-Stack Development skills
+- 🐍 Practicing Python and problem solving
+- ☁️ Exploring Cloud Technologies
+- 💻 Creating projects and learning through real-world development
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-  ✨ Thanks for visiting my profile! ✨
+
+<a href="https://github.com/vaishnavipawarofficial06-boop">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </p>
+
+---
+
+<p align="center">
+  <b>✨ Keep Learning • Keep Building • Keep Growing ✨</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! 💜
+</p>
+
+
