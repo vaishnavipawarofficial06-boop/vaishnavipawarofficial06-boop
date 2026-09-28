@@ -87,19 +87,6 @@ and user-friendly web applications.
 </p>
 
 ---
-
-## 🌱 Currently Learning
-
-```text
-Frontend Development
-        ↓
-Full-Stack Web Development
-        ↓
-Python
-        ↓
-Cloud Technologies
-        ↓
-Backend Development
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -158,3 +145,16 @@ Backend Development
 <p align="center">
   ✨ Thanks for visiting my profile! ✨
 </p>
+
+## 🌱 Currently Learning
+
+```text
+Frontend Development
+        ↓
+Full-Stack Web Development
+        ↓
+Python
+        ↓
+Cloud Technologies
+        ↓
+Backend Development
