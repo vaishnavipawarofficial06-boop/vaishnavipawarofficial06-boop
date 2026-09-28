@@ -18,80 +18,21 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
-# Hi 👋, I'm Vaishnavi Pawar
-
-### 💻 Frontend Developer | Full-Stack Web Development Enthusiast
+# 👋 Hi, I'm Vaishnavi Pawar
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaishnavipawarofficial06-boop&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/vaishnavipawarofficial06-boop">
-    <img src="https://img.shields.io/github/followers/vaishnavipawarofficial06-boop?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/vaishnavipawarofficial06-boop">
-    <img src="https://img.shields.io/github/stars/vaishnavipawarofficial06-boop?label=Stars&style=for-the-badge" />
-  </a>
+  💻 Developer &nbsp;•&nbsp;
+  🚀 Tech Enthusiast &nbsp;•&nbsp;
+  🌱 Always Learning
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-I'm a passionate **Frontend Developer** interested in building modern, responsive,
-and user-friendly web applications.
-
-- 💻 I'm a **Frontend Developer**
-- 🌐 I'm interested in **Full-Stack Web Development**
-- 🌱 Currently learning **Python, Cloud Technologies & Web Development**
-- 📚 Currently working on improving my **programming languages and technical skills**
-- 💡 Interested in building **real-world web applications**
-- 👯 Looking to collaborate on **Web Development & Open Source projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Git & GitHub**
-- 📫 Reach me at **vaishnavipawarofficial06@gmail.com**
-- ⚡ Fun fact: **I love turning ideas into working projects!**
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-### 🐍 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
-</p>
-
-### ☁️ Cloud & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
----
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" width="450">
-  <img src="./profile/top-langs.svg" width="350">
+  <img src="./profile/stats.svg" width="450" alt="GitHub Statistics">
+  <img src="./profile/top-langs.svg" width="350" alt="Top Languages">
 </p>
 
 ---
@@ -99,7 +40,7 @@ and user-friendly web applications.
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="./profile/streak.svg" width="800">
+  <img src="./profile/streak.svg" width="800" alt="Contribution Streak">
 </p>
 
 ---
@@ -107,7 +48,7 @@ and user-friendly web applications.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="./profile/trophy.svg" width="900">
+  <img src="./profile/trophy.svg" width="900" alt="GitHub Trophies">
 </p>
 
 ---
@@ -115,7 +56,7 @@ and user-friendly web applications.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="./profile/activity-graph.svg" width="900">
+  <img src="./profile/activity-graph.svg" width="900" alt="Contribution Activity">
 </p>
 
 ---
@@ -123,26 +64,24 @@ and user-friendly web applications.
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaishnavipawarofficial06-boop&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge">
+  <img 
+    src="https://komarev.com/ghpvc/?username=vaishnavipawarofficial06-boop&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge"
+    alt="Profile Views"
+  >
 </p>
 
----
 ---
 
 ## 🌱 Currently Learning
 
-<p align="center">
-
 | 🚀 Area | 📚 Learning |
-|:---:|:---:|
+|:---:|:---|
 | 🎨 Frontend | HTML • CSS • JavaScript |
 | ⚛️ Web Development | React.js |
 | 🐍 Programming | Python |
 | ☁️ Cloud | Cloud Technologies |
 | 🔧 Backend | Node.js • APIs |
 | 🗄️ Database | SQL • MongoDB |
-
-</p>
 
 ---
 
@@ -156,12 +95,22 @@ and user-friendly web applications.
 
 ---
 
+## 🛠️ Technologies & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,mongodb,mysql,git,github,vscode" />
+
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://github.com/vaishnavipawarofficial06-boop">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
@@ -169,11 +118,13 @@ and user-friendly web applications.
 ---
 
 <p align="center">
-  <b>✨ Keep Learning • Keep Building • Keep Growing ✨</b>
+
+<b>✨ Keep Learning • Keep Building • Keep Growing ✨</b>
+
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! 💜
+
+Thanks for visiting my profile! 💜
+
 </p>
-
-
