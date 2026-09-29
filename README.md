@@ -121,6 +121,17 @@
 
 <b>✨ Keep Learning • Keep Building • Keep Growing ✨</b>
 
+ <!-- 🌊 Bottom Gradient Wave -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=0,5,20,45,80,100&animation=twinkling"
+  width="100%"
+/>
+
+</div>
+
 </p>
 
 <p align="center">
