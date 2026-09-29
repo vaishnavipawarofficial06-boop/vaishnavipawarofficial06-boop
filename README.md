@@ -120,58 +120,13 @@
 <p align="center">
 
 <b>✨ Keep Learning • Keep Building • Keep Growing ✨</b>
+
 <div align="center">
 
-<svg width="100%" height="140" viewBox="0 0 1200 140"
-     xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <linearGradient id="footerGradient"
-                    x1="0%" y1="0%"
-                    x2="100%" y2="0%">
-
-      <!-- तुझ्या front चे colors -->
-      <stop offset="0%"   stop-color="#12002B"/>
-      <stop offset="25%"  stop-color="#4B176F"/>
-      <stop offset="50%"  stop-color="#514BAA"/>
-      <stop offset="75%"  stop-color="#3479B8"/>
-      <stop offset="100%" stop-color="#00A6B8"/>
-
-    </linearGradient>
-
-    <linearGradient id="topWave"
-                    x1="0%" y1="0%"
-                    x2="100%" y2="0%">
-
-      <stop offset="0%"   stop-color="#1A0B3D"/>
-      <stop offset="50%"  stop-color="#5545A5"/>
-      <stop offset="100%" stop-color="#00A6B8"/>
-
-    </linearGradient>
-  </defs>
-
-  <!-- Back wave -->
-  <path
-    d="M0 38
-       C180 48 300 65 470 58
-       C650 50 760 30 930 38
-       C1050 43 1130 50 1200 55
-       L1200 140
-       L0 140 Z"
-    fill="url(#topWave)"
-  />
-
-  <!-- Main wave -->
-  <path
-    d="M0 65
-       C180 70 300 88 470 78
-       C650 67 760 48 930 55
-       C1050 60 1130 70 1200 72
-       L1200 140
-       L0 140 Z"
-    fill="url(#footerGradient)"
-  />
-
-</svg>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&text=&fontSize=0&color=0:12002B,30:4B176F,55:514BAA,78:3479B8,100:00A6B8"
+  width="100%"
+  alt="footer wave"
+/>
 
 </div>
