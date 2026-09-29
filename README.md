@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
+
 # 👋 Hi, I'm Vaishnavi Pawar
 
 <p align="center">
@@ -27,6 +28,7 @@
 </p>
 
 ---
+
 ## 🧠 About Me
 
 I'm a **Computer Science Engineering student** and aspiring
@@ -42,6 +44,7 @@ responsive, and scalable applications.
 </p>
 
 ---
+
 ## 💡 What I'm Working On
 
 - 🚀 Building modern and responsive web applications
@@ -51,6 +54,7 @@ responsive, and scalable applications.
 - 💻 Creating projects and learning through real-world development
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Web Development
@@ -83,6 +87,7 @@ responsive, and scalable applications.
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
 
 </div>
+
 🤝 Connect With Me
 <div align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/YOUR_TWITTER"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://your-website.com"> <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
