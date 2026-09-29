@@ -57,55 +57,81 @@ responsive, and scalable applications.
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Web Development
+### 💻 Programming Languages & Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,html,css,php,react,python" />
 </p>
 
 ### 🗄️ Database & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,express" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,nodejs,express" />
 </p>
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws" />
 </p>
 
-### 🔐 Cyber Security & Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github" />
-</p>
+## 💬 Developer Quote
 
-💬 Developer Quote
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+  alt="Developer Quote"
+/>
 
 </div>
 
-🤝 Connect With Me
-<div align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/YOUR_TWITTER"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://your-website.com"> <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://your-website.com">
+  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br><br>
 
-⭐ Building intelligent systems for the future.
+⭐ **Building intelligent systems for the future.**
+
+<br>
+
+**✨ Keep Learning • Keep Building • Keep Growing ✨**
 
 </div>
-<p align="center">
 
-<b>✨ Keep Learning • Keep Building • Keep Growing ✨</b>
+---
+
+<!-- 🌊 Bottom Wave -->
 
 <div align="center">
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&text=&fontSize=0&color=0:12002B,30:4B176F,55:514BAA,78:3479B8,100:00A6B8"
   width="100%"
-  alt="footer wave"
+  alt="Footer Wave"
 />
 
 </div>
+
+<b>✨ Keep Learning • Keep Building • Keep Growing ✨</b>
