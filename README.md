@@ -120,7 +120,6 @@
 <p align="center">
 
 <b>✨ Keep Learning • Keep Building • Keep Growing ✨</b>
-
 <div align="center">
 
 <svg width="100%" height="140" viewBox="0 0 1200 140"
