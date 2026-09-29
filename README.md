@@ -27,40 +27,11 @@
 </p>
 
 ---
+## 🧠 About Me
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="./profile/stats.svg" width="450" alt="GitHub Statistics">
-  <img src="./profile/top-langs.svg" width="350" alt="Top Languages">
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="./profile/streak.svg" width="800" alt="Contribution Streak">
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="./profile/trophy.svg" width="900" alt="GitHub Trophies">
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="./profile/activity-graph.svg" width="900" alt="Contribution Activity">
-</p>
-
----
-
+I'm a **Computer Science Engineering student** and aspiring
+**Full Stack Developer** passionate about building practical,
+responsive, and scalable applications.
 ## 👀 Profile Views
 
 <p align="center">
@@ -71,20 +42,6 @@
 </p>
 
 ---
-
-## 🌱 Currently Learning
-
-| 🚀 Area | 📚 Learning |
-|:---:|:---|
-| 🎨 Frontend | HTML • CSS • JavaScript |
-| ⚛️ Web Development | React.js |
-| 🐍 Programming | Python |
-| ☁️ Cloud | Cloud Technologies |
-| 🔧 Backend | Node.js • APIs |
-| 🗄️ Database | SQL • MongoDB |
-
----
-
 ## 💡 What I'm Working On
 
 - 🚀 Building modern and responsive web applications
@@ -94,29 +51,46 @@
 - 💻 Creating projects and learning through real-world development
 
 ---
+## 🛠️ Tech Stack
 
-## 🛠️ Technologies & Tools
+### 💻 Programming & Web Development
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,mongodb,mysql,git,github,vscode" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python" />
 </p>
 
----
+### 🗄️ Database & Backend
 
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/vaishnavipawarofficial06-boop">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,express" />
 </p>
 
----
+### ☁️ DevOps & Cloud
 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws" />
+</p>
+
+### 🔐 Cyber Security & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
+
+💬 Developer Quote
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
+
+</div>
+🤝 Connect With Me
+<div align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/YOUR_TWITTER"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://your-website.com"> <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<br><br>
+
+⭐ Building intelligent systems for the future.
+
+</div>
 <p align="center">
 
 <b>✨ Keep Learning • Keep Building • Keep Growing ✨</b>
