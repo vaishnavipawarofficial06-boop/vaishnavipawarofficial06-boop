@@ -134,4 +134,3 @@ responsive, and scalable applications.
 
 </div>
 
-<b>✨ Keep Learning • Keep Building • Keep Growing ✨</b>
